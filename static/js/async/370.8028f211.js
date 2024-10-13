@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_hikestack_official=self.webpackChunk_hikestack_official||[]).push([["370"],{3199:function(e,c,n){n.r(c),n.d(c,{default:function(){return f}});var i=n(1549);function f(){return(0,i.jsx)("div",{className:"flex flex-col min-h-screen bg-background",children:"11"})}}}]);
